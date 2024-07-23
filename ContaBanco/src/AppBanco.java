@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.SortedMap;
 
 public class AppBanco {
     public static void main(String[] args) {
